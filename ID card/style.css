@@ -1,0 +1,47 @@
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+#idCard {
+    border: 5px solid black;
+    border-radius: 20px;
+    height: 14em;
+    width: 25em;
+    font-family: georgia, cursive, sans-serif;
+    text-align:center;
+    margin-left: 350px;
+}
+
+body {
+    background-color:#FF9C33;
+    text-align: center;
+}
+
+div {
+    background-color:#FFFF33;
+    margin: 0 auto;
+}
+
+#postFullName {
+    font-weight: lighter;
+    font-size:35px;
+    margin:30px 5px 10px 5px;
+}
+
+#postAge {
+    text-align: left;
+    margin-top: 35px;
+    margin-left: 5px;
+}
+
+#postPhoneNumber {
+    text-align: left;
+    margin-left: 5px;
+}
+
+#postAddress {
+    text-align: left;
+    margin-left: 5px;
+}
